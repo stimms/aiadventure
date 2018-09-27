@@ -1,0 +1,22 @@
+baseURL = "https://aiadventure.simontimms.com/"
+languageCode = "en-us"
+title = "AI Adventure"
+theme = "minimage"
+
+[params]
+  description = "Learning to use AI from nothing"
+  author = "Simon Timms"
+  logo = '/image/logo.png'
+
+[[menu.global]]
+    name = "About"
+    url = "/about/"
+
+[[menu.footer]]
+    name = "About"
+    url = "/about/"
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
