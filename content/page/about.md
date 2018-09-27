@@ -5,4 +5,4 @@ menu: main
 draft: false
 ---
 
-This blog is a special project off my main blog located at htts://blog.simontimms.com. You can find out more about me 
+This blog is a special project off my main blog located at [htts://blog.simontimms.com](htts://blog.simontimms.com). You can find out more about me on the about [page](https://blog.simontimms.com/about/) over there

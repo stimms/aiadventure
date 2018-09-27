@@ -10,11 +10,11 @@ theme = "minimage"
 
 [[menu.global]]
     name = "About"
-    url = "/about/"
+    url = "/page/about"
 
 [[menu.footer]]
     name = "About"
-    url = "/about/"
+    url = "/page/about"
 
 [sitemap]
   changefreq = "daily"
